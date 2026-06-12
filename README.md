@@ -1,0 +1,5 @@
+- **Project name** — novatech-onboarding-portal 
+- **Description** — what is this novatech-onboarding-portal for? Who is it for?
+- **What's inside** — a brief overview of the folder structure and what each folder contains
+- **How to use** — how should a new hire use this portal?
+- **Maintainer** — who built this and how to reach them
