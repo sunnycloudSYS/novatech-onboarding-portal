@@ -7,7 +7,7 @@
 - **Slack:** @alexchen
 - **GitHub:** @alexchen-nt
 - **Started:** 2022
-- **Fun fact:** Built NovaTech's first Kubernetes cluster on a weekend.
+- **Fun fact:** Mentors every new hire personally during their first week.
 
 ### Sunny — Junior Cloud Engineer
 - **Role:** Junior Cloud Engineer (New Hire)
