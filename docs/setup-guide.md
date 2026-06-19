@@ -25,3 +25,4 @@ Welcome to NovaTech! Follow these steps to get your development environment read
 - [ ] Introduce yourself in #general on Slack
 
 You're ready. Welcome to the team!
+We all welcome you
