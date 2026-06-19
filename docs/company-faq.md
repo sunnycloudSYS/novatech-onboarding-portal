@@ -29,3 +29,11 @@ A: Most of the team uses VS Code, but use whatever you're comfortable with.
 
 **Q: Do I need a Linux machine?**
 A: Not required for onboarding, but you'll need SSH access to servers later. We'll set that up in your second week.
+
+## Onboarding
+
+**Q: How long is the onboarding period?**
+A: Your first week focuses on setting up your environment, learning the Git workflow, and building your first contribution. By Week 2, you'll be working on real infrastructure tasks.
+
+**Q: Where do I find the onboarding portal?**
+A: You're looking at it. This repo is the portal. Start with the README, then work through the Setup Guide.
